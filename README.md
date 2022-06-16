@@ -8,7 +8,7 @@ Company Capstone Project<br>
 ## Original Repository
 
 - [Machine Learning](https://github.com/Arnolds18/Bangkit-Capstone-Project-ML)
-- [Mobile Development]
+- [Mobile Development](https://github.com/chesianatalia/Bangkit-Capstone-Project)
 - [Cloud Computing]
 
 ## Demo
