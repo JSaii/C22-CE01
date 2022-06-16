@@ -1,6 +1,7 @@
 # C22-CE01
 
-Company Capstone Project
+Company Capstone Project<br>
+*Partner by Indosat Ooredoo Hutchison*
 
 “RePlasc : Waste collection application to increase public awareness about plastic waste and decreasing gas emission”
 
