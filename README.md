@@ -14,7 +14,7 @@ Company Capstone Project<br>
 ## Demo
 
 <p align="center">
-  <img src=" "/>
+  <img src="[ ](https://drive.google.com/file/d/1xvOPIZaMI9mcm3-XTnBgwND7dukCNcKM/view?usp=sharing)"/>
 </p>
 
 Click this link to try this app! [RePlasc](https://drive.google.com/drive/folders/1ZW9ReptYeA2W9g5EY2M02BXarQc0W6GS?usp=sharing)
