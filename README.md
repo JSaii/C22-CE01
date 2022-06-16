@@ -11,7 +11,13 @@ Company Capstone Project<br>
 - [Mobile Development]
 - [Cloud Computing]
 
+## Demo
 
+<p align="center">
+  <img src=" "/>
+</p>
+
+Click this link to try this app! [RePlasc](https://drive.google.com/drive/folders/1ZW9ReptYeA2W9g5EY2M02BXarQc0W6GS?usp=sharing)
 ## Team Members
 - Arnold Sidiprasetija (M2004F0375) - ML - ITS
 - Nathanael Hutama Harsono (M2004F0383) - ML - ITS
