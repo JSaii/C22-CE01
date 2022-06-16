@@ -18,6 +18,31 @@ Company Capstone Project<br>
 </p>
 
 Click this link to try this app! [RePlasc](https://drive.google.com/drive/folders/1ZW9ReptYeA2W9g5EY2M02BXarQc0W6GS?usp=sharing)
+
+## Documentation
+
+What do we do in each learning path
+
+### 1. Machine Learning
+- Collect the dataset from Kaggle
+- Preprocessing the dataset
+- Implement augmentation such as rotation, flip, contrast, zoom using Tensorflow and color manually with OpenCV
+- Build the model with transfer learning and convert it to TensorFlow Lite
+
+### 2. Cloud Computing
+- Creating virtual machine as backend server in GCP.
+- Setting databases
+- Creating several APIs of communication in the backend and mobile apps 
+- Implementing Google Web Client ID
+
+### 3. Mobile Development
+- Designing the UI/UX
+- Implement  retrofit to retrieve data from API and send data to database through API
+- Using shared preference for saving state and save data from API responses
+- Implement cameraX
+- Implement maps and location features using Google Maps API
+- Generating QR code from ID that got from API for confirmation state
+
 ## Team Members
 - Arnold Sidiprasetija (M2004F0375) - ML - ITS
 - Nathanael Hutama Harsono (M2004F0383) - ML - ITS
